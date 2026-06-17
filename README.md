@@ -1,1 +1,2 @@
-This repository contains benchmarking utilities for analyzing performance differences between linear search and indexed data access in large C++ buffers. It demonstrates algorithmic improvements for memory-intensive sync operations. Study project.
+Project Sleeper: High-Performance Data Sync Engine
+"Проект Sleeper — это архитектурное исследование методов обработки данных в высоконагруженных системах. Основная цель — переход от ресурсоемкого линейного сканирования к событийной индексации. Мы предлагаем интерфейс для интеграции в проекты, где важна скорость реакции и минимизация задержек (low-latency sync).
