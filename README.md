@@ -1,1 +1,1 @@
-# data-access-optimization
+This repository contains benchmarking utilities for analyzing performance differences between linear search and indexed data access in large C++ buffers. It demonstrates algorithmic improvements for memory-intensive sync operations. Study project.
